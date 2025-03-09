@@ -2,7 +2,7 @@ s0 = 10e6
 K = 0.6
 
 [Mesh]
-  file = SimpleFaultv2.msh
+  file = SimpleFault.msh
 []
 
 [GlobalParams]
